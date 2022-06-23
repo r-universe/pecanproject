@@ -272,9 +272,24 @@
 	url = https://github.com/MikkoPeltoniemi/Rpreles
 	shallow = true
 	registered = false
+[submodule "amerifluxr"]
+	path = amerifluxr
+	url = https://github.com/chuhousen/amerifluxr
+	shallow = true
+	registered = false
+[submodule "geonames"]
+	path = geonames
+	url = https://github.com/ropensci/geonames
+	shallow = true
+	registered = false
 [submodule "linkages"]
 	path = linkages
 	url = https://github.com/araiho/linkages_package
+	shallow = true
+	registered = false
+[submodule "nneo"]
+	path = nneo
+	url = https://github.com/ropensci/nneo
 	shallow = true
 	registered = false
 [submodule "testthat"]

@@ -13,10 +13,28 @@
     "from": "PEcAn.PRELES"
   },
   {
+    "package": "amerifluxr",
+    "url": "https://github.com/chuhousen/amerifluxr",
+    "via": ["PEcAn.data.atmosphere"],
+    "from": "PEcAn.data.atmosphere"
+  },
+  {
+    "package": "geonames",
+    "url": "https://github.com/ropensci/geonames",
+    "via": ["PEcAn.data.atmosphere"],
+    "from": "PEcAn.data.atmosphere"
+  },
+  {
     "package": "linkages",
     "url": "https://github.com/araiho/linkages_package",
     "via": ["PEcAn.LINKAGES"],
     "from": "PEcAn.LINKAGES"
+  },
+  {
+    "package": "nneo",
+    "url": "https://github.com/ropensci/nneo",
+    "via": ["PEcAn.data.atmosphere"],
+    "from": "PEcAn.data.atmosphere"
   },
   {
     "package": "testthat",
