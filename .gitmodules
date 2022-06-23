@@ -261,3 +261,15 @@
 	shallow = true
 	subdir = modules/uncertainty
 	registered = true
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	shallow = true
+	branch = v3.0.4
+	registered = false
+[submodule "vdiffr"]
+	path = vdiffr
+	url = https://github.com/r-lib/vdiffr
+	shallow = true
+	branch = v1.0.2
+	registered = false
