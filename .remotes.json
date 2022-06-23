@@ -1,5 +1,12 @@
 [
   {
+    "package": "BioCro",
+    "url": "https://github.com/ebimodeling/biocro",
+    "via": ["PEcAn.BIOCRO"],
+    "branch": "0.951",
+    "from": "PEcAn.BIOCRO"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["PEcAn.qaqc"],

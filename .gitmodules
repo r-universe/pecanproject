@@ -261,6 +261,12 @@
 	shallow = true
 	subdir = modules/uncertainty
 	registered = true
+[submodule "BioCro"]
+	path = BioCro
+	url = https://github.com/ebimodeling/biocro
+	shallow = true
+	branch = 0.951
+	registered = false
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
