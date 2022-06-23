@@ -7,6 +7,12 @@
     "from": "PEcAn.BIOCRO"
   },
   {
+    "package": "linkages",
+    "url": "https://github.com/araiho/linkages_package",
+    "via": ["PEcAn.LINKAGES"],
+    "from": "PEcAn.LINKAGES"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["PEcAn.qaqc"],

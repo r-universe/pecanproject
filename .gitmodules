@@ -267,6 +267,11 @@
 	shallow = true
 	branch = 0.951
 	registered = false
+[submodule "linkages"]
+	path = linkages
+	url = https://github.com/araiho/linkages_package
+	shallow = true
+	registered = false
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
