@@ -267,6 +267,11 @@
 	shallow = true
 	branch = 0.951
 	registered = false
+[submodule "Rpreles"]
+	path = Rpreles
+	url = https://github.com/MikkoPeltoniemi/Rpreles
+	shallow = true
+	registered = false
 [submodule "linkages"]
 	path = linkages
 	url = https://github.com/araiho/linkages_package

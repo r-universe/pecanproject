@@ -7,6 +7,12 @@
     "from": "PEcAn.BIOCRO"
   },
   {
+    "package": "Rpreles",
+    "url": "https://github.com/MikkoPeltoniemi/Rpreles",
+    "via": ["PEcAn.PRELES"],
+    "from": "PEcAn.PRELES"
+  },
+  {
     "package": "linkages",
     "url": "https://github.com/araiho/linkages_package",
     "via": ["PEcAn.LINKAGES"],
