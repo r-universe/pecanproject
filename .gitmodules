@@ -57,17 +57,17 @@
 	shallow = true
 	subdir = base/workflow
 	registered = true
-[submodule "PEcAn.BIOCRO"]
-	path = PEcAn.BIOCRO
-	url = https://github.com/PecanProject/pecan
-	shallow = true
-	subdir = biocro.Rcheck/PEcAn.BIOCRO
-	registered = true
 [submodule "PEcAn.BASGRA"]
 	path = PEcAn.BASGRA
 	url = https://github.com/PecanProject/pecan
 	shallow = true
 	subdir = models/basgra
+	registered = true
+[submodule "PEcAn.BIOCRO"]
+	path = PEcAn.BIOCRO
+	url = https://github.com/PecanProject/pecan
+	shallow = true
+	subdir = models/biocro
 	registered = true
 [submodule "PEcAn.CABLE"]
 	path = PEcAn.CABLE
@@ -183,8 +183,8 @@
 	shallow = true
 	subdir = modules/assim.batch
 	registered = true
-[submodule "PEcAn.assim.sequential"]
-	path = PEcAn.assim.sequential
+[submodule "PEcAnAssimSequential"]
+	path = PEcAnAssimSequential
 	url = https://github.com/PecanProject/pecan
 	shallow = true
 	subdir = modules/assim.sequential

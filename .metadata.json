@@ -27,13 +27,7 @@
     "package": "PEcAn.workflow"
   },
   {
-    "package": "PEcAn.BIOCRO"
-  },
-  {
     "package": "PEcAn.BASGRA"
-  },
-  {
-    "package": "PEcAn.BIOCRO"
   },
   {
     "package": "PEcAn.BIOCRO"
@@ -96,7 +90,7 @@
     "package": "PEcAn.assim.batch"
   },
   {
-    "package": "PEcAn.assim.sequential"
+    "package": "PEcAnAssimSequential"
   },
   {
     "package": "PEcAn.benchmark"
