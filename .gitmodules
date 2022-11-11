@@ -261,6 +261,12 @@
 	shallow = true
 	subdir = modules/uncertainty
 	registered = true
+[submodule "BayesianTools"]
+	path = BayesianTools
+	url = https://github.com/florianhartig/BayesianTools
+	shallow = true
+	subdir = BayesianTools
+	registered = true
 [submodule "BioCro"]
 	path = BioCro
 	url = https://github.com/ebimodeling/biocro
