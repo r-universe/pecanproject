@@ -302,11 +302,11 @@
 	path = testthat
 	url = https://github.com/r-lib/testthat
 	shallow = true
-	branch = v3.0.4
+	branch = v3.1.6
 	registered = false
 [submodule "vdiffr"]
 	path = vdiffr
 	url = https://github.com/r-lib/vdiffr
 	shallow = true
-	branch = v1.0.2
+	branch = v1.0.4
 	registered = false
