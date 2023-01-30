@@ -129,6 +129,7 @@
     "package": "PEcAn.uncertainty"
   },
   {
-    "package": "BayesianTools"
+    "package": "BayesianTools",
+    "oncran": false
   }
 ]
