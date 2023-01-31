@@ -130,6 +130,6 @@
   },
   {
     "package": "BayesianTools",
-    "oncran": false
+    "oncran": true
   }
 ]
