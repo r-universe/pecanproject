@@ -37,6 +37,13 @@
     "from": "PEcAn.data.atmosphere"
   },
   {
+    "package": "rmarkdown",
+    "url": "https://github.com/rstudio/rmarkdown",
+    "via": ["PEcAn.DB"],
+    "branch": "v2.20",
+    "from": "PEcAn.DB"
+  },
+  {
     "package": "testthat",
     "url": "https://github.com/r-lib/testthat",
     "via": ["PEcAn.qaqc"],
