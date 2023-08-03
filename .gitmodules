@@ -2,42 +2,15 @@
 	path = .registry
 	url = https://github.com/pecanproject/universe
 	branch = HEAD
-[submodule "PEcAn.all"]
-	path = PEcAn.all
-	url = https://github.com/PecanProject/pecan
-	subdir = base/all
-[submodule "PEcAn.DB"]
-	path = PEcAn.DB
-	url = https://github.com/PecanProject/pecan
-	subdir = base/db
-[submodule "PEcAn.logger"]
-	path = PEcAn.logger
-	url = https://github.com/PecanProject/pecan
-	subdir = base/logger
-[submodule "PEcAn.qaqc"]
-	path = PEcAn.qaqc
-	url = https://github.com/PecanProject/pecan
-	subdir = base/qaqc
-[submodule "PEcAn.remote"]
-	path = PEcAn.remote
-	url = https://github.com/PecanProject/pecan
-	subdir = base/remote
-[submodule "PEcAn.settings"]
-	path = PEcAn.settings
-	url = https://github.com/PecanProject/pecan
-	subdir = base/settings
-[submodule "PEcAn.utils"]
-	path = PEcAn.utils
-	url = https://github.com/PecanProject/pecan
-	subdir = base/utils
-[submodule "PEcAn.visualization"]
-	path = PEcAn.visualization
-	url = https://github.com/PecanProject/pecan
-	subdir = base/visualization
-[submodule "PEcAn.workflow"]
-	path = PEcAn.workflow
-	url = https://github.com/PecanProject/pecan
-	subdir = base/workflow
+[submodule "BayesianTools"]
+	path = BayesianTools
+	url = https://github.com/florianhartig/BayesianTools
+	subdir = BayesianTools
+[submodule "BioCro"]
+	path = BioCro
+	url = https://github.com/ebimodeling/biocro
+	branch = 0.951
+	registered = false
 [submodule "PEcAn.BASGRA"]
 	path = PEcAn.BASGRA
 	url = https://github.com/PecanProject/pecan
@@ -58,10 +31,10 @@
 	path = PEcAn.DALEC
 	url = https://github.com/PecanProject/pecan
 	subdir = models/dalec
-[submodule "PEcAn.dvmdostem"]
-	path = PEcAn.dvmdostem
+[submodule "PEcAn.DB"]
+	path = PEcAn.DB
 	url = https://github.com/PecanProject/pecan
-	subdir = models/dvmdostem
+	subdir = base/db
 [submodule "PEcAn.ED2"]
 	path = PEcAn.ED2
 	url = https://github.com/PecanProject/pecan
@@ -86,6 +59,10 @@
 	path = PEcAn.LPJGUESS
 	url = https://github.com/PecanProject/pecan
 	subdir = models/lpjguess
+[submodule "PEcAn.MA"]
+	path = PEcAn.MA
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/meta.analysis
 [submodule "PEcAn.MAAT"]
 	path = PEcAn.MAAT
 	url = https://github.com/PecanProject/pecan
@@ -94,6 +71,10 @@
 	path = PEcAn.MAESPA
 	url = https://github.com/PecanProject/pecan
 	subdir = models/maespa
+[submodule "PEcAn.ModelName"]
+	path = PEcAn.ModelName
+	url = https://github.com/PecanProject/pecan
+	subdir = models/template
 [submodule "PEcAn.PRELES"]
 	path = PEcAn.PRELES
 	url = https://github.com/PecanProject/pecan
@@ -110,10 +91,10 @@
 	path = PEcAn.STICS
 	url = https://github.com/PecanProject/pecan
 	subdir = models/stics
-[submodule "PEcAn.ModelName"]
-	path = PEcAn.ModelName
+[submodule "PEcAn.all"]
+	path = PEcAn.all
 	url = https://github.com/PecanProject/pecan
-	subdir = models/template
+	subdir = base/all
 [submodule "PEcAn.allometry"]
 	path = PEcAn.allometry
 	url = https://github.com/PecanProject/pecan
@@ -122,10 +103,6 @@
 	path = PEcAn.assim.batch
 	url = https://github.com/PecanProject/pecan
 	subdir = modules/assim.batch
-[submodule "PEcAnAssimSequential"]
-	path = PEcAnAssimSequential
-	url = https://github.com/PecanProject/pecan
-	subdir = modules/assim.sequential
 [submodule "PEcAn.benchmark"]
 	path = PEcAn.benchmark
 	url = https://github.com/PecanProject/pecan
@@ -150,14 +127,18 @@
 	path = PEcAn.data.remote
 	url = https://github.com/PecanProject/pecan
 	subdir = modules/data.remote
+[submodule "PEcAn.dvmdostem"]
+	path = PEcAn.dvmdostem
+	url = https://github.com/PecanProject/pecan
+	subdir = models/dvmdostem
 [submodule "PEcAn.emulator"]
 	path = PEcAn.emulator
 	url = https://github.com/PecanProject/pecan
 	subdir = modules/emulator
-[submodule "PEcAn.MA"]
-	path = PEcAn.MA
+[submodule "PEcAn.logger"]
+	path = PEcAn.logger
 	url = https://github.com/PecanProject/pecan
-	subdir = modules/meta.analysis
+	subdir = base/logger
 [submodule "PEcAn.photosynthesis"]
 	path = PEcAn.photosynthesis
 	url = https://github.com/PecanProject/pecan
@@ -166,23 +147,42 @@
 	path = PEcAn.priors
 	url = https://github.com/PecanProject/pecan
 	subdir = modules/priors
-[submodule "PEcAnRTM"]
-	path = PEcAnRTM
+[submodule "PEcAn.qaqc"]
+	path = PEcAn.qaqc
 	url = https://github.com/PecanProject/pecan
-	subdir = modules/rtm
+	subdir = base/qaqc
+[submodule "PEcAn.remote"]
+	path = PEcAn.remote
+	url = https://github.com/PecanProject/pecan
+	subdir = base/remote
+[submodule "PEcAn.settings"]
+	path = PEcAn.settings
+	url = https://github.com/PecanProject/pecan
+	subdir = base/settings
 [submodule "PEcAn.uncertainty"]
 	path = PEcAn.uncertainty
 	url = https://github.com/PecanProject/pecan
 	subdir = modules/uncertainty
-[submodule "BayesianTools"]
-	path = BayesianTools
-	url = https://github.com/florianhartig/BayesianTools
-	subdir = BayesianTools
-[submodule "BioCro"]
-	path = BioCro
-	url = https://github.com/ebimodeling/biocro
-	branch = 0.951
-	registered = false
+[submodule "PEcAn.utils"]
+	path = PEcAn.utils
+	url = https://github.com/PecanProject/pecan
+	subdir = base/utils
+[submodule "PEcAn.visualization"]
+	path = PEcAn.visualization
+	url = https://github.com/PecanProject/pecan
+	subdir = base/visualization
+[submodule "PEcAn.workflow"]
+	path = PEcAn.workflow
+	url = https://github.com/PecanProject/pecan
+	subdir = base/workflow
+[submodule "PEcAnAssimSequential"]
+	path = PEcAnAssimSequential
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/assim.sequential
+[submodule "PEcAnRTM"]
+	path = PEcAnRTM
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/rtm
 [submodule "Rpreles"]
 	path = Rpreles
 	url = https://github.com/MikkoPeltoniemi/Rpreles
