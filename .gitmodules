@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/pecanproject/universe
+	url = https://github.com/pecanproject/pecanproject.r-universe.dev
 	branch = HEAD
 [submodule "BayesianTools"]
 	path = BayesianTools
