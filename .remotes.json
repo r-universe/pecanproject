@@ -31,6 +31,13 @@
     "from": "PEcAn.LINKAGES"
   },
   {
+    "package": "mockery",
+    "url": "https://github.com/r-lib/mockery",
+    "via": ["PEcAn.DB"],
+    "branch": "v0.4.3",
+    "from": "PEcAn.DB"
+  },
+  {
     "package": "nneo",
     "url": "https://github.com/ropensci/nneo",
     "via": ["PEcAn.data.atmosphere"],
