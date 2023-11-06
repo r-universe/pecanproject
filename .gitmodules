@@ -213,6 +213,10 @@
 	url = https://github.com/rstudio/rmarkdown
 	branch = v2.20
 	registered = false
+[submodule "suntools"]
+	path = suntools
+	url = https://github.com/adokter/suntools
+	registered = false
 [submodule "testthat"]
 	path = testthat
 	url = https://github.com/r-lib/testthat
