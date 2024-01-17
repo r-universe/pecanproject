@@ -199,19 +199,9 @@
 	path = linkages
 	url = https://github.com/araiho/linkages_package
 	registered = false
-[submodule "mockery"]
-	path = mockery
-	url = https://github.com/r-lib/mockery
-	branch = v0.4.3
-	registered = false
 [submodule "nneo"]
 	path = nneo
 	url = https://github.com/ropensci/nneo
-	registered = false
-[submodule "rmarkdown"]
-	path = rmarkdown
-	url = https://github.com/rstudio/rmarkdown
-	branch = v2.20
 	registered = false
 [submodule "suntools"]
 	path = suntools
