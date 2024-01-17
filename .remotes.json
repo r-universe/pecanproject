@@ -41,19 +41,5 @@
     "url": "https://github.com/adokter/suntools",
     "via": ["PEcAn.data.atmosphere"],
     "from": "PEcAn.data.atmosphere"
-  },
-  {
-    "package": "testthat",
-    "url": "https://github.com/r-lib/testthat",
-    "via": ["PEcAn.qaqc"],
-    "branch": "v3.1.6",
-    "from": "PEcAn.qaqc"
-  },
-  {
-    "package": "vdiffr",
-    "url": "https://github.com/r-lib/vdiffr",
-    "via": ["PEcAn.qaqc"],
-    "branch": "v1.0.4",
-    "from": "PEcAn.qaqc"
   }
 ]
