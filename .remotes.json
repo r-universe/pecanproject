@@ -7,6 +7,12 @@
     "from": "PEcAn.BIOCRO"
   },
   {
+    "package": "GEDI4R",
+    "url": "https://github.com/VangiElia/GEDI4R",
+    "via": ["PEcAn.data.remote"],
+    "from": "PEcAn.data.remote"
+  },
+  {
     "package": "Rpreles",
     "url": "https://github.com/MikkoPeltoniemi/Rpreles",
     "via": ["PEcAn.PRELES"],
