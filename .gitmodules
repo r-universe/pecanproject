@@ -55,6 +55,10 @@
 	path = PEcAn.JULES
 	url = https://github.com/PecanProject/pecan
 	subdir = models/jules
+[submodule "PEcAn.LDNDC"]
+	path = PEcAn.LDNDC
+	url = https://github.com/PecanProject/pecan
+	subdir = models/ldndc
 [submodule "PEcAn.LINKAGES"]
 	path = PEcAn.LINKAGES
 	url = https://github.com/PecanProject/pecan
@@ -115,10 +119,6 @@
 	path = PEcAn.data.atmosphere
 	url = https://github.com/PecanProject/pecan
 	subdir = modules/data.atmosphere
-[submodule "PEcAn.data.hydrology"]
-	path = PEcAn.data.hydrology
-	url = https://github.com/PecanProject/pecan
-	subdir = modules/data.hydrology
 [submodule "PEcAn.data.land"]
 	path = PEcAn.data.land
 	url = https://github.com/PecanProject/pecan
