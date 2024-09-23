@@ -13,6 +13,12 @@
     "from": "PEcAn.data.remote"
   },
   {
+    "package": "Maeswrap",
+    "url": "https://github.com/RemkoDuursma/Maeswrap",
+    "via": ["PEcAn.MAESPA"],
+    "from": "PEcAn.MAESPA"
+  },
+  {
     "package": "Rpreles",
     "url": "https://github.com/MikkoPeltoniemi/Rpreles",
     "via": ["PEcAn.PRELES"],
