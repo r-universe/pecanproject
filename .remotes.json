@@ -65,5 +65,11 @@
     "url": "https://github.com/adokter/suntools",
     "via": ["PEcAn.data.atmosphere"],
     "from": "PEcAn.data.atmosphere"
+  },
+  {
+    "package": "traits",
+    "url": "https://github.com/ropensci/traits",
+    "via": ["PEcAn.data.land"],
+    "from": "PEcAn.data.land"
   }
 ]

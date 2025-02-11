@@ -223,3 +223,7 @@
 	path = suntools
 	url = https://github.com/adokter/suntools
 	registered = false
+[submodule "traits"]
+	path = traits
+	url = https://github.com/ropensci/traits
+	registered = false
