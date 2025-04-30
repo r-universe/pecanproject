@@ -7,12 +7,6 @@
     "from": "PEcAn.BIOCRO"
   },
   {
-    "package": "GEDI4R",
-    "url": "https://github.com/VangiElia/GEDI4R",
-    "via": ["PEcAn.data.remote"],
-    "from": "PEcAn.data.remote"
-  },
-  {
     "package": "Maeswrap",
     "url": "https://github.com/RemkoDuursma/Maeswrap",
     "via": ["PEcAn.MAESPA"],
