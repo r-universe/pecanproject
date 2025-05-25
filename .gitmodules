@@ -191,6 +191,14 @@
 	path = Rpreles
 	url = https://github.com/MikkoPeltoniemi/Rpreles
 	registered = false
+[submodule "SticsOnR"]
+	path = SticsOnR
+	url = https://github.com/SticsRPacks/SticsOnR
+	registered = false
+[submodule "SticsRFiles"]
+	path = SticsRFiles
+	url = https://github.com/SticsRPacks/SticsRFiles
+	registered = false
 [submodule "amerifluxr"]
 	path = amerifluxr
 	url = https://github.com/chuhousen/amerifluxr

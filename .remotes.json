@@ -19,6 +19,18 @@
     "from": "PEcAn.PRELES"
   },
   {
+    "package": "SticsOnR",
+    "url": "https://github.com/SticsRPacks/SticsOnR",
+    "via": ["PEcAn.STICS"],
+    "from": "PEcAn.STICS"
+  },
+  {
+    "package": "SticsRFiles",
+    "url": "https://github.com/SticsRPacks/SticsRFiles",
+    "via": ["PEcAn.STICS"],
+    "from": "PEcAn.STICS"
+  },
+  {
     "package": "amerifluxr",
     "url": "https://github.com/chuhousen/amerifluxr",
     "via": ["PEcAn.data.atmosphere"],
