@@ -79,14 +79,14 @@
 	path = PEcAn.MAESPA
 	url = https://github.com/PecanProject/pecan
 	subdir = models/maespa
-[submodule "PEcAn.ModelName"]
-	path = PEcAn.ModelName
-	url = https://github.com/PecanProject/pecan
-	subdir = models/template
 [submodule "PEcAn.PRELES"]
 	path = PEcAn.PRELES
 	url = https://github.com/PecanProject/pecan
 	subdir = models/preles
+[submodule "PEcAn.RothC"]
+	path = PEcAn.RothC
+	url = https://github.com/PecanProject/pecan
+	subdir = models/rothc
 [submodule "PEcAn.SIBCASA"]
 	path = PEcAn.SIBCASA
 	url = https://github.com/PecanProject/pecan
