@@ -1,0 +1,212 @@
+[submodule ".registry"]
+	path = .registry
+	url = https://github.com/pecanproject/pecanproject.r-universe.dev
+	branch = HEAD
+[submodule "BayesianTools"]
+	path = BayesianTools
+	url = https://github.com/florianhartig/BayesianTools
+	subdir = BayesianTools
+[submodule "BioCro"]
+	path = BioCro
+	url = https://github.com/ebimodeling/biocro
+	branch = 0.951
+[submodule "Maeswrap"]
+	path = Maeswrap
+	url = https://github.com/RemkoDuursma/Maeswrap
+[submodule "PEPRMT"]
+	path = PEPRMT
+	url = https://github.com/abbylewis/PEPRMT-Tidal
+[submodule "PEcAn.BASGRA"]
+	path = PEcAn.BASGRA
+	url = https://github.com/PecanProject/pecan
+	subdir = models/basgra
+[submodule "PEcAn.BIOCRO"]
+	path = PEcAn.BIOCRO
+	url = https://github.com/PecanProject/pecan
+	subdir = models/biocro
+[submodule "PEcAn.CABLE"]
+	path = PEcAn.CABLE
+	url = https://github.com/PecanProject/pecan
+	subdir = models/cable
+[submodule "PEcAn.CLM45"]
+	path = PEcAn.CLM45
+	url = https://github.com/PecanProject/pecan
+	subdir = models/clm45
+[submodule "PEcAn.DALEC"]
+	path = PEcAn.DALEC
+	url = https://github.com/PecanProject/pecan
+	subdir = models/dalec
+[submodule "PEcAn.DB"]
+	path = PEcAn.DB
+	url = https://github.com/PecanProject/pecan
+	subdir = base/db
+[submodule "PEcAn.ED2"]
+	path = PEcAn.ED2
+	url = https://github.com/PecanProject/pecan
+	subdir = models/ed
+[submodule "PEcAn.FATES"]
+	path = PEcAn.FATES
+	url = https://github.com/PecanProject/pecan
+	subdir = models/fates
+[submodule "PEcAn.GDAY"]
+	path = PEcAn.GDAY
+	url = https://github.com/PecanProject/pecan
+	subdir = models/gday
+[submodule "PEcAn.JULES"]
+	path = PEcAn.JULES
+	url = https://github.com/PecanProject/pecan
+	subdir = models/jules
+[submodule "PEcAn.LDNDC"]
+	path = PEcAn.LDNDC
+	url = https://github.com/PecanProject/pecan
+	subdir = models/ldndc
+[submodule "PEcAn.LINKAGES"]
+	path = PEcAn.LINKAGES
+	url = https://github.com/PecanProject/pecan
+	subdir = models/linkages
+[submodule "PEcAn.LPJGUESS"]
+	path = PEcAn.LPJGUESS
+	url = https://github.com/PecanProject/pecan
+	subdir = models/lpjguess
+[submodule "PEcAn.MA"]
+	path = PEcAn.MA
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/meta.analysis
+[submodule "PEcAn.MAAT"]
+	path = PEcAn.MAAT
+	url = https://github.com/PecanProject/pecan
+	subdir = models/maat
+[submodule "PEcAn.MAESPA"]
+	path = PEcAn.MAESPA
+	url = https://github.com/PecanProject/pecan
+	subdir = models/maespa
+[submodule "PEcAn.PEPRMT"]
+	path = PEcAn.PEPRMT
+	url = https://github.com/PecanProject/pecan
+	subdir = models/peprmt
+[submodule "PEcAn.PRELES"]
+	path = PEcAn.PRELES
+	url = https://github.com/PecanProject/pecan
+	subdir = models/preles
+[submodule "PEcAn.RothC"]
+	path = PEcAn.RothC
+	url = https://github.com/PecanProject/pecan
+	subdir = models/rothc
+[submodule "PEcAn.SIBCASA"]
+	path = PEcAn.SIBCASA
+	url = https://github.com/PecanProject/pecan
+	subdir = models/sibcasa
+[submodule "PEcAn.SIPNET"]
+	path = PEcAn.SIPNET
+	url = https://github.com/PecanProject/pecan
+	subdir = models/sipnet
+[submodule "PEcAn.STICS"]
+	path = PEcAn.STICS
+	url = https://github.com/PecanProject/pecan
+	subdir = models/stics
+[submodule "PEcAn.all"]
+	path = PEcAn.all
+	url = https://github.com/PecanProject/pecan
+	subdir = base/all
+[submodule "PEcAn.allometry"]
+	path = PEcAn.allometry
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/allometry
+[submodule "PEcAn.assim.batch"]
+	path = PEcAn.assim.batch
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/assim.batch
+[submodule "PEcAn.benchmark"]
+	path = PEcAn.benchmark
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/benchmark
+[submodule "PEcAn.data.atmosphere"]
+	path = PEcAn.data.atmosphere
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/data.atmosphere
+[submodule "PEcAn.data.land"]
+	path = PEcAn.data.land
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/data.land
+[submodule "PEcAn.data.mining"]
+	path = PEcAn.data.mining
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/data.mining
+[submodule "PEcAn.data.remote"]
+	path = PEcAn.data.remote
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/data.remote
+[submodule "PEcAn.dvmdostem"]
+	path = PEcAn.dvmdostem
+	url = https://github.com/PecanProject/pecan
+	subdir = models/dvmdostem
+[submodule "PEcAn.emulator"]
+	path = PEcAn.emulator
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/emulator
+[submodule "PEcAn.logger"]
+	path = PEcAn.logger
+	url = https://github.com/PecanProject/pecan
+	subdir = base/logger
+[submodule "PEcAn.photosynthesis"]
+	path = PEcAn.photosynthesis
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/photosynthesis
+[submodule "PEcAn.priors"]
+	path = PEcAn.priors
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/priors
+[submodule "PEcAn.qaqc"]
+	path = PEcAn.qaqc
+	url = https://github.com/PecanProject/pecan
+	subdir = base/qaqc
+[submodule "PEcAn.remote"]
+	path = PEcAn.remote
+	url = https://github.com/PecanProject/pecan
+	subdir = base/remote
+[submodule "PEcAn.settings"]
+	path = PEcAn.settings
+	url = https://github.com/PecanProject/pecan
+	subdir = base/settings
+[submodule "PEcAn.uncertainty"]
+	path = PEcAn.uncertainty
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/uncertainty
+[submodule "PEcAn.utils"]
+	path = PEcAn.utils
+	url = https://github.com/PecanProject/pecan
+	subdir = base/utils
+[submodule "PEcAn.visualization"]
+	path = PEcAn.visualization
+	url = https://github.com/PecanProject/pecan
+	subdir = base/visualization
+[submodule "PEcAn.workflow"]
+	path = PEcAn.workflow
+	url = https://github.com/PecanProject/pecan
+	subdir = base/workflow
+[submodule "PEcAnAssimSequential"]
+	path = PEcAnAssimSequential
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/assim.sequential
+[submodule "PEcAnRTM"]
+	path = PEcAnRTM
+	url = https://github.com/PecanProject/pecan
+	subdir = modules/rtm
+[submodule "Rpreles"]
+	path = Rpreles
+	url = https://github.com/MikkoPeltoniemi/Rpreles
+[submodule "SticsOnR"]
+	path = SticsOnR
+	url = https://github.com/SticsRPacks/SticsOnR
+[submodule "SticsRFiles"]
+	path = SticsRFiles
+	url = https://github.com/SticsRPacks/SticsRFiles
+[submodule "amerifluxr"]
+	path = amerifluxr
+	url = https://github.com/chuhousen/amerifluxr
+[submodule "linkages"]
+	path = linkages
+	url = https://github.com/araiho/linkages_package
+[submodule "nneo"]
+	path = nneo
+	url = https://github.com/ropensci-archive/nneo

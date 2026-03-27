@@ -1,0 +1,62 @@
+[
+  {
+    "package": "BayesianTools",
+    "metadata": {
+      "notes": "Imported by PEcAn.assim.batch"
+    }
+  },
+  {
+    "package": "BioCro",
+    "metadata": {
+      "notes": "Suggested by PEcAn.BIOCRO"
+    }
+  },
+  {
+    "package": "Maeswrap",
+    "metadata": {
+      "notes": "Suggested by PEcAn.MAESPA"
+    }
+  },
+  {
+    "package": "PEPRMT",
+    "metadata": {
+      "notes": "Imported by PEcAn.PEPRMT"
+    }
+  },
+  {
+    "package": "Rpreles",
+    "metadata": {
+      "notes": "Suggested by PEcAn.PRELES"
+    }
+  },
+  {
+    "package": "SticsOnR",
+    "metadata": {
+      "notes": "Suggested by PEcAn.STICS"
+    }
+  },
+  {
+    "package": "SticsRFiles",
+    "metadata": {
+      "notes": "Suggested by PEcAn.STICS"
+    }
+  },
+  {
+    "package": "amerifluxr",
+    "metadata": {
+      "notes": "Imported by PEcAn.data.atmosphere"
+    }
+  },
+  {
+    "package": "linkages",
+    "metadata": {
+      "notes": "Suggested by PEcAn.data.LINKAGES"
+    }
+  },
+  {
+    "package": "nneo",
+    "metadata": {
+      "notes": "Suggested by PEcAn.data.atmosphere"
+    }
+  }
+]
