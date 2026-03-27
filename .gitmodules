@@ -70,6 +70,10 @@
 	path = PEcAn.MAESPA
 	url = https://github.com/PecanProject/pecan
 	subdir = models/maespa
+[submodule "PEcAn.PEPRMT"]
+	path = PEcAn.PEPRMT
+	url = https://github.com/PecanProject/pecan
+	subdir = models/peprmt
 [submodule "PEcAn.PRELES"]
 	path = PEcAn.PRELES
 	url = https://github.com/PecanProject/pecan
