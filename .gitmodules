@@ -6,6 +6,16 @@
 	path = BayesianTools
 	url = https://github.com/florianhartig/BayesianTools
 	subdir = BayesianTools
+[submodule "BioCro"]
+	path = BioCro
+	url = https://github.com/ebimodeling/biocro
+	branch = 0.951
+[submodule "Maeswrap"]
+	path = Maeswrap
+	url = https://github.com/RemkoDuursma/Maeswrap
+[submodule "PEPRMT"]
+	path = PEPRMT
+	url = https://github.com/abbylewis/PEPRMT-Tidal
 [submodule "PEcAn.BASGRA"]
 	path = PEcAn.BASGRA
 	url = https://github.com/PecanProject/pecan
@@ -182,3 +192,21 @@
 	path = PEcAnRTM
 	url = https://github.com/PecanProject/pecan
 	subdir = modules/rtm
+[submodule "Rpreles"]
+	path = Rpreles
+	url = https://github.com/MikkoPeltoniemi/Rpreles
+[submodule "SticsOnR"]
+	path = SticsOnR
+	url = https://github.com/SticsRPacks/SticsOnR
+[submodule "SticsRFiles"]
+	path = SticsRFiles
+	url = https://github.com/SticsRPacks/SticsRFiles
+[submodule "amerifluxr"]
+	path = amerifluxr
+	url = https://github.com/chuhousen/amerifluxr
+[submodule "linkages"]
+	path = linkages
+	url = https://github.com/araiho/linkages_package
+[submodule "nneo"]
+	path = nneo
+	url = https://github.com/ropensci-archive/nneo
