@@ -6,6 +6,7 @@
 	path = BayesianTools
 	url = https://github.com/florianhartig/BayesianTools
 	subdir = BayesianTools
+	registered = false
 [submodule "BioCro"]
 	path = BioCro
 	url = https://github.com/ebimodeling/biocro
@@ -13,6 +14,7 @@
 [submodule "Maeswrap"]
 	path = Maeswrap
 	url = https://github.com/RemkoDuursma/Maeswrap
+	registered = false
 [submodule "PEPRMT"]
 	path = PEPRMT
 	url = https://github.com/abbylewis/PEPRMT-Tidal
@@ -195,18 +197,24 @@
 [submodule "Rpreles"]
 	path = Rpreles
 	url = https://github.com/MikkoPeltoniemi/Rpreles
+	registered = false
 [submodule "SticsOnR"]
 	path = SticsOnR
 	url = https://github.com/SticsRPacks/SticsOnR
+	registered = false
 [submodule "SticsRFiles"]
 	path = SticsRFiles
 	url = https://github.com/SticsRPacks/SticsRFiles
+	registered = false
 [submodule "amerifluxr"]
 	path = amerifluxr
 	url = https://github.com/chuhousen/amerifluxr
+	registered = false
 [submodule "linkages"]
 	path = linkages
 	url = https://github.com/araiho/linkages_package
+	registered = false
 [submodule "nneo"]
 	path = nneo
 	url = https://github.com/ropensci-archive/nneo
+	registered = false
