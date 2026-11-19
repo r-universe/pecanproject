@@ -50,13 +50,19 @@
   {
     "package": "linkages",
     "metadata": {
-      "notes": "Suggested by PEcAn.data.LINKAGES"
+      "notes": "Suggested by PEcAn.LINKAGES"
     }
   },
   {
     "package": "nneo",
     "metadata": {
       "notes": "Suggested by PEcAn.data.atmosphere"
+    }
+  },
+  {
+    "package": "VulnToolkit",
+    "metadata": {
+      "notes": "Imported by PEcAn.data.water"
     }
   }
 ]
